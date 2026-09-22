@@ -27,7 +27,7 @@ Automated checks examine the specification; they do not establish runtime behavi
 
 ## More writing samples
 
-[Browse my GitBook portfolio](https://sinsanecodes.gitbook.io/technical-writing-portfolio).
+[Browse my GitBook portfolio](https://sinsanecodes.gitbook.io/kuhuk-gaur-or-technical-writing-portfolio).
 
 ## Current learning
 
